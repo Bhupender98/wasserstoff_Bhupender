@@ -20,6 +20,9 @@ used react router dom for naviagtion the page
 [page2](https://user-images.githubusercontent.com/108581770/219844477-729c01a6-9f4c-452f-9d0a-2ee07d0c3863.png)
 ![page3](https://user-images.githubusercontent.com/108581770/219844498-a050d732-b5d2-498c-91db-69b2dd8880dd.png)
 
+![page2](https://user-images.githubusercontent.com/108581770/219844590-67bc3084-e32d-48e3-b5c2-05b429aa42b8.png)
+
+
 ------steps--------!
 
 1. create a folder and inside them using command create-react-app and named project name
