@@ -17,10 +17,11 @@ used react router dom for naviagtion the page
 -------------OverView of My project-------------------
 
 ![page1](https://user-images.githubusercontent.com/108581770/219844473-d8148ac6-4f10-4e8a-874a-a3c3db1f7e47.png)
+![page2](https://user-images.githubusercontent.com/108581770/220064668-398e911e-1f2b-4012-ac9d-ef2439cdaa43.png)
+
 [page2](https://user-images.githubusercontent.com/108581770/219844477-729c01a6-9f4c-452f-9d0a-2ee07d0c3863.png)
 ![page3](https://user-images.githubusercontent.com/108581770/219844498-a050d732-b5d2-498c-91db-69b2dd8880dd.png)
 
-![page2](https://user-images.githubusercontent.com/108581770/219844590-67bc3084-e32d-48e3-b5c2-05b429aa42b8.png)
 
 
 ------steps--------!
@@ -36,7 +37,7 @@ Link:  https://flourishing-druid-efa177.netlify.app/
 
 =============video Link=================
 
-
+  Video Link:-  https://youtu.be/1bR0c5WpuZ0
 
 =======Approach==================
 I had go through the design and get how to implement the basic structure and design using Sass(Syntactically Awesome Style Sheets).Using React-router-dom i had done Navbarto navigate the components then i have created individual components for reuseability. after that i focused on how to implement a map using react-simple-map go through the react simple map and design and implement step by step as such possible. After that i thought about how to implement graphs like Bar chart , bubble chart and scatter charts i had read about on how how to implement and apply on my project so i done using ApexChart library,react charts and i implemented the bubble chart using JSX and SASS  
