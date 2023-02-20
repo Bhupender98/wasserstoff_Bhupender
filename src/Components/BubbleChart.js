@@ -23,7 +23,7 @@ const BubbleChart = () => {
  <Chart
               options={state.options}
               series={state.series}
-              type="bubble"
+              type="scatter"
               width="800"
               height={"100%"}
             />
